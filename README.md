@@ -2,9 +2,7 @@
 
 # 🤓 Hello, welcome to my github! checkout here my repositories
 ah and don´t forget to folow-me thanks !
+# About me 
+* Help Desk in Sistems at Automatus Informática LTDA PETROLINA -PE .
+* Student Web develop FullStack.🤓
 
-* Analista de Sistemas,
-* Help Desk em Sistemas na Automatus Informática.
-* Cristão ,Músico, estudando atualmente Dev Web  fullstack.🤓
-* About me 
-comming soon
