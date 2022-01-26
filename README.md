@@ -17,7 +17,7 @@ Ah and don´t forget to folow-me thanks !
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-## **GitHub Estatísticas**
+## **GitHub statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvess09&theme=dracula&hide_langs_below=1" />
@@ -25,7 +25,7 @@ Ah and don´t forget to folow-me thanks !
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=alvess09&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-## **Contatos & Redes Sociais**
+## **Contacts and social network**
 <div> 
   <a href="https://instagram.com/arielalves09" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arielalves9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
